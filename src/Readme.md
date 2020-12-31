@@ -1,26 +1,27 @@
-#序号    文件名                                                             算法                                              数据结构
-001 E20201106_1356_sortByBits.java                                      数的二进制中‘1’的个数，数组                          数组
+# 文件名                               算法                                    数据结构
+E20201106_1356_sortByBits.java                                      数的二进制中‘1’的个数，数组                          					数组
 
-002 E20201109_973_kClosest.java                                         k个离原点最近的点，堆排序                            数组\堆、队列
+E20201109_973_kClosest.java                                           k个离原点最近的点，堆排序                           					 数组\堆、队列
 
-003 E20201111_1370_sortString.java                                      使用桶排序                                        字符串\数组
+E20201111_1370_sortString.java                                      使用桶排序                                        									字符串\数组
 
-004 E20201112_148_sortList.java                                         使用归并排序对单链表进行排序                          链表
+E20201112_148_sortList.java                                             使用归并排序对单链表进行排序                          			    链表
 
-005 E20201112_922_sortArrayByParity.java                                使用双指针法进行奇偶重新排序                          数组
+E20201112_922_sortArrayByParity.java                           使用双指针法进行奇偶重新排序                          			    数组
 
-006 E20201113_147_insertionSortList.java                                使用哨兵法对链表进行插入排序                          链表
+E20201113_147_insertionSortList.java                             使用哨兵法对链表进行插入排序                          			    链表
 
-007 E20201113_328_oddEvenList.java                                      奇偶链表，奇偶指针法(快慢指针法的延申或者特例)           链表
+E20201113_328_oddEvenList.java                                     奇偶链表，奇偶指针法(快慢指针法的延申或者特例)           链表
 
-008 E20201116_2_addTwoNumbers                                           使用哨兵法对加法进行模拟                             链表
+E20201116_2_addTwoNumbers                                        使用哨兵法对加法进行模拟                             						链表
 
-009 E09_20201117_1030_allCellsDistOrder.java                            使用桶排序、BFS等方法对曼哈顿距离进行排序               链表
+E09_20201117_1030_allCellsDistOrder.java                     使用桶排序、BFS等方法对曼哈顿距离进行排序               链表
 
-010 E10_20201118_56_mergeIntervals.java                                 使用java自带api比较器排序合并区间，                   数组
-                                                                              合理安排处理顺序减少时间损耗
+E10_20201118_56_mergeIntervals.java                           使用java自带api比较器排序合并区间，                   数组
+                                                                                               合理安排处理顺序减少时间损耗
                                                                               
-011 E11_20201118_179_largestNumber.java                                 非经典的算法，使用逆序度(i<j,而nums[i]>nums[j])
+
+E11_20201118_179_largestNumber.java                                 非经典的算法，使用逆序度(i<j,而nums[i]>nums[j])
                                                                                     的思路进行排序                         数组
 
 E12_20201119_moveZeros.java                                             借助快排思想的中间节点，使用双指针进行排序与交换          数组
